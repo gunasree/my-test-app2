@@ -15,7 +15,7 @@
         npm install -g raappid
         ```
         
-    2. In your terminal go to to directory where you want to create your project and run command
+    2.2 In your terminal go to to directory where you want to create your project and run command
     
        ```
         raappid web-app project-name
