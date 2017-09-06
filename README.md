@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://travis-ci.org/gunasree/my-test-app2.svg?branch=master)](https://travis-ci.org/gunasree/my-test-app2)
 #### About
 - This is a basic starter template for getting quick start on full featured web application written in [Typescript](https://www.typescriptlang.org/index.html) and using [Webpack](https://webpack.js.org/).
 - This template also include full Software Development Lifecycle support. Which means you can quickly develop, test and deploy your application to production
@@ -15,7 +15,7 @@
         npm install -g raappid
         ```
         
-    2. In your terminal go to to directory where you want to create your project and run command
+    2.2 In your terminal go to to directory where you want to create your project and run command
     
        ```
         raappid web-app project-name
